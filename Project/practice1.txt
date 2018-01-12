@@ -3,4 +3,5 @@ test line 2
 test1 line 3
 test line 4 conflict
 test1 line 5 conflict.//make test1 at line 5,bofore at line 4.
-
+test line 6 branch feature2
+test1 line 7 feature13
